@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rootohsie.debug.is/sitemap.xml
